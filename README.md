@@ -1,0 +1,1 @@
+A Markdown to plain-text converter that preserves document structure by converting ATX headings to underlined text, stripping inline formatting, keeping list nesting with indentation, prefixing blockquotes, and leaving code blocks intact. Reads from standard input or uses a built-in example for demonstration.
